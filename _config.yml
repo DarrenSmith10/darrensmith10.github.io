@@ -6,6 +6,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-remote-theme
   - jekyll-feed
+  - jekyll-youtube
 
 #-------------------------------
 # General Site Settings
