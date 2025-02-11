@@ -1,7 +1,4 @@
-.header-avatar,
-.header-avatar img,
 .header-avatar-img {
     border-radius: 0 !important;
-    -webkit-border-radius: 0 !important;
-    -moz-border-radius: 0 !important;
+    object-fit: cover;
 }
