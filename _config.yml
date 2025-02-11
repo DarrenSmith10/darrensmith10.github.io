@@ -1,0 +1,55 @@
+# Remote theme directory
+remote_theme: sainikhith/analytics-link.github.io
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
+  - jekyll-feed
+
+#-------------------------------
+# General Site Settings
+title: Step8Up Academy
+description: "Hello, learners. this is a sample template for portfolio. Please visit my Github & LinkedIn pages (or download my CV) by using the links below."
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+author: "Sri Sai Nikhith"
+
+#-------------------------------
+# About Section
+subtitle: Software Coach <span style="color:#f58506"> Portfolio </span>
+location: "London, UK"
+resume_url: "/docs/sample_CV.pdf"
+avatar_image: /img/profile_picture_me.png
+
+#-------------------------------
+# Contact links
+linkedln: "https://www.linkedin.com/company/step8up-academy/" # Add your linkedln handle
+github: "https://github.com/Step8Up-SBC/Jan-25"  # Add your github handle
+
+paginate: 6
+paginate_path: "/page/:num"
+
+sass:
+  sass_dir: _sass
+  style: compressed # possible values: nested expanded compact compressed
+
+defaults:
+  - scope:
+      type: posts
+    values:
+      layout: post
+      read_time: true
+      share: false
+
+
+#-------------------------------
+# Exclude from processing.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
