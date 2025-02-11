@@ -10,14 +10,14 @@ plugins:
 #-------------------------------
 # General Site Settings
 title: Step8Up Academy
-description: "Hello, learners. this is a sample template for portfolio. Please visit my Github & LinkedIn pages (or download my CV) by using the links below."
+description: "Hello, everyone. Welcome to Step8Up Learners' Project Works Page. Please visit the official Github & LinkedIn pages of Step8Up.You can also download a Sample CV by using the links below."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://step8up.co.uk/" # the base hostname & protocol for your site, e.g. http://example.com
 author: "Sri Sai Nikhith"
 
 #-------------------------------
 # About Section
-subtitle: Software Coach <span style="color:#f58506"> Portfolio </span>
+subtitle: Learner <span style="color:#f58506"> Portfolio </span>
 location: "London, UK"
 resume_url: "docs/sample_CV.pdf"
 avatar_image: img/profile_picture_me.png
