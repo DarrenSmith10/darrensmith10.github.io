@@ -5,5 +5,4 @@ group :jekyll_plugins do
   gem "jekyll-sitemap"
   gem "jekyll-feed"
   gem "github-pages"
-  gem "jekyll-embed-video"
 end
