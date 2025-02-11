@@ -19,8 +19,8 @@ author: "Sri Sai Nikhith"
 # About Section
 subtitle: Software Coach <span style="color:#f58506"> Portfolio </span>
 location: "London, UK"
-resume_url: "LearnerPortfolio/docs/sample_CV.pdf"
-avatar_image: LearnerPortfolio/img/profile_picture_me.png
+resume_url: "docs/sample_CV.pdf"
+avatar_image: img/profile_picture_me.png
 
 #-------------------------------
 # Contact links
