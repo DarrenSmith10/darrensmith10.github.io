@@ -24,8 +24,8 @@ avatar_image: img/profile_picture_me.png
 
 #-------------------------------
 # Contact links
-linkedln: "https://www.linkedin.com/company/step8up-academy/" # Add your linkedln handle
-github: "https://github.com/Step8Up-SBC/Jan-25"  # Add your github handle
+linkedln: "https://www.linkedin.com/in/darren-smith-9b89b95b/" # Add your linkedln handle
+github: "https://github.com/DarrenSmith10"  # Add your github handle
 
 paginate: 6
 paginate_path: "/page/:num"
