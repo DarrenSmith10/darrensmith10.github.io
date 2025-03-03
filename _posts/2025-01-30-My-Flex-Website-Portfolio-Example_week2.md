@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Test post
-description: checking how this post works
-image: "/posts/step8up-template.png"
+title: My flex Website Portfolio Example
+description: A css website using flex box and other css elements.
+image: "/posts/Flex_Portfolio_Week2.png"
 tags: [Python]
 ---
 
