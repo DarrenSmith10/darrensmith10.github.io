@@ -42,7 +42,8 @@ defaults:
       read_time: true
       share: false
 
-
+include:
+  - assets/css/custom.css
 #-------------------------------
 # Exclude from processing.
 # exclude:
@@ -54,5 +55,5 @@ defaults:
 #   - vendor/gems/
 #   - vendor/ruby/
 # Include custom CSS file
-include:
-  - assets/css/custom.css
+
+

@@ -6,6 +6,8 @@
     overflow: hidden;
     margin-bottom: 20px;
     border: 4px solid #fff;
+    filter: drop-shadow(0 0 1em #09cae3e7);
+    transition: filter 0.5s;
 
 }
 
