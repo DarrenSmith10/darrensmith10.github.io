@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Python Git Readme
-description: Full Stacks taker
+description: Generates a readme on Github
 image: "/posts/PythonReadme_Generator_Week6.png"
 tags: [Python]
 youtubeId: AYGSTXyBN7I

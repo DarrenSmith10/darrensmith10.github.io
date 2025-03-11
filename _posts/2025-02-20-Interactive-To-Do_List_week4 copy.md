@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Interactive to Do List
-description: create a readme
+description: creates a to do list
 image: "/posts/Interactive_To_Do_List_week4.png"
 tags: [Javascript]
 ---

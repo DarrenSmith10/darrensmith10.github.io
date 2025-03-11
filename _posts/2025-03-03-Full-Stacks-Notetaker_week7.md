@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Python Git Readme
-description: Full Stacks taker
+title: Full Stacks Notesaker
+description: Full Stacks application that makes notes
 image: "/posts/full-stack-notetaker.png"
 tags: [Node.js]
 
