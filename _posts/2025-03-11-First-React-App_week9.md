@@ -1,9 +1,9 @@
 ---
 layout: post
-title: My flex Website Portfolio Example
-description: A css website using flex box and other css elements.
-image: "/posts/Flex_Portfolio_Week2.png"
-tags: [HTML5 , CSS]
+title: First React Application
+description: Create a Portfolio using react.
+image: "/posts/first-react-app.png"
+tags: [React , Node.js]
 ---
 
 ## Introduction

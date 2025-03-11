@@ -1,9 +1,11 @@
 ---
 layout: post
-title: My flex Website Portfolio Example
-description: A css website using flex box and other css elements.
-image: "/posts/Flex_Portfolio_Week2.png"
-tags: [HTML5 , CSS]
+title: Python Git Readme
+description: Full Stacks taker
+image: "/posts/PythonReadme_Generator_Week6.png"
+tags: [Node.js]
+
+
 ---
 
 ## Introduction

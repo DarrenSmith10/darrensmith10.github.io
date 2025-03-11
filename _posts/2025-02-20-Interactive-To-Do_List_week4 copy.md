@@ -1,9 +1,9 @@
 ---
 layout: post
-title: My flex Website Portfolio Example
-description: A css website using flex box and other css elements.
-image: "/posts/Flex_Portfolio_Week2.png"
-tags: [HTML5 , CSS]
+title: Interactive to Do List
+description: create a readme
+image: "/posts/Interactive_To_Do_List_week4.png"
+tags: [Javascript]
 ---
 
 ## Introduction

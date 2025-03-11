@@ -53,3 +53,6 @@ defaults:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+# Include custom CSS file
+include:
+  - assets/css/custom.css

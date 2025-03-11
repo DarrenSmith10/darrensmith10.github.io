@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Interactive to Do List
-description: create a readme
-image: "/posts/Interactive_To_Do_List_week4.png"
-tags: [Python]
+title: Full Stacks Blog
+description: create a full stacks application that allows users to post and update.
+image: "/posts/full-stack-blog.png"
+tags: [Node.js , SQL]
 ---
 
 ## Introduction
