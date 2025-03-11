@@ -3,33 +3,3 @@
     object-fit: cover;
 }
 
-.header-avatar {
-    display: block;
-    margin: auto;
-    border-radius: 100%;
-    width: 100px;
-    overflow: hidden;
-    margin-bottom: 20px;
-    border: 4px solid #fff;
-    /* filter: drop-shadow(0 0 1em #09cae3e7);
-    transition: filter 0.5s; */
-
-}
-
-.header-avatar {
-    /* animation: logo-spin infinite 10s linear; */
-    animation: header-avatar-filter 10s infinite;
-  }
-  
-  /* .logo.react:hover {
-    filter: drop-shadow(0 0 2em #61dafbaa);
-  } */
-  
-  @keyframes header-avatar-filter {
-    from {
-      filter: drop-shadow(0 0 1em #09cae3e7);
-    }
-    to {
-      filter: drop-shadow(0 0 1em #f40bc9dd);
-    }
-  }
