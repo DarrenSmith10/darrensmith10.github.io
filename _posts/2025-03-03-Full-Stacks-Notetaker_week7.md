@@ -2,7 +2,7 @@
 layout: post
 title: Python Git Readme
 description: Full Stacks taker
-image: "/posts/PythonReadme_Generator_Week6.png"
+image: "/posts/full-stack-notetaker.png"
 tags: [Node.js]
 
 
