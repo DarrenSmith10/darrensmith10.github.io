@@ -2,7 +2,7 @@
 layout: post
 title: My Boostrap Website Portfolio Example
 description: A css website using Boostrap.
-image: "/posts/Bootstrap_Week3"
+image: "/posts/Bootstrap_Week3.png"
 tags: [HTML5 , CSS]
 ---
 
