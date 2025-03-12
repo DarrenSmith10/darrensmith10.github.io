@@ -11,9 +11,9 @@ tags: [Javascript]
 In this post, I'm testing to see how this will work.
 
 ### Actions  {#overview-actions}
-- 🔹 **Step 1:** Build a React application from scrath using Node.js. 
-- 🔹 **Step 2:** Structered and stylized React components using router & CSS. 
-- 🔹 **Step 3:** Deployed the React application using Github repo before pushing it to live server.(Render) 
+- 🔹 **Step 1:** Build a interactive to do list using javascript. 
+- 🔹 **Step 2:** Implemented event handles and DOM components to design the list. 
+- 🔹 **Step 3:** Deployed using Github repo before pushing it to live server.
 
 ---
 
