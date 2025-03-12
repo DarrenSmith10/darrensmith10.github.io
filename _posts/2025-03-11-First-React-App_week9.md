@@ -6,12 +6,25 @@ image: "/posts/first-react-app.png"
 tags: [React , Node.js]
 ---
 
-## Introduction
+## Context
 
-In this post, I'm testing to see how this will work.
+I built a dynamic portoflio. This was done using React. The site shows all the previous projects covering various areas. This was to demonstrated my understanding of React fundamentals, responsive design and component based architecture.
 
-### Why we testing this?
+### Actions  {#overview-actions}
+- 🔹 **Step 1:** Build a React application from scrath using Node.js. 
+- 🔹 **Step 2:** Structered and stylized React components using router & CSS. 
+- 🔹 **Step 3:** Deployed the React application using Github repo before pushing it to live server.(Render) 
 
-We are testing post as a template to see if it works. If works then it will be used a template for future projects
+---
+
+### Result
+
+Below is the result.
+
+https://darrensmith-my-react-app.onrender.com/
+
+https://github.com/DarrenSmith10/DarrenSmith-my-react-app-week9
+
+
 
 ---

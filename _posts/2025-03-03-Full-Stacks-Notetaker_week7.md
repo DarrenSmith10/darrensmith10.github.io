@@ -12,8 +12,21 @@ tags: [Node.js]
 
 In this post, I'm testing to see how this will work.
 
-### Why we testing this?
+### Actions  {#overview-actions}
+- 🔹 **Step 1:** Build a full stacks application using Vscode using Node.JS. 
+- 🔹 **Step 2:** Making sure the APi calls / routes work and that the enter being entered in is store in Json file. 
+- 🔹 **Step 3:** Deployed the application using Github repo before pushing it to live server.(Render) 
 
-We are testing post as a template to see if it works. If works then it will be used a template for future projects
+---
+
+### Result
+
+Below is the result.
+
+https://full-stack-notes-application-week7.onrender.com/
+
+https://github.com/DarrenSmith10/Full-Stack-Notes-Application-Week7
+
+
 
 ---

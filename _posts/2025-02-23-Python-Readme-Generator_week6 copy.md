@@ -23,3 +23,19 @@ We are testing post as a template to see if it works. If works then it will be u
 {% include youtubePlayer.html id=page.youtubeId %}
 
 ---
+
+### Actions  {#overview-actions}
+- 🔹 **Step 1:** Build Readme Generator using python. 
+- 🔹 **Step 2:** Implemenet features that write out the message from console to a markdown file or txt. 
+- 🔹 **Step 3:** Deployed the application using Github repo before pushing it to live server on GitHub pages. 
+
+---
+
+### Result
+
+Below is the result.
+
+https://github.com/DarrenSmith10/My_GitHub_ReadME_Generator_Week6
+
+
+---

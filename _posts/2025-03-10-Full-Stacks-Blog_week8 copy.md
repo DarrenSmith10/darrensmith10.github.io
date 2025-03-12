@@ -8,10 +8,24 @@ tags: [Node.js , SQL]
 
 ## Introduction
 
-In this post, I'm testing to see how this will work.
+Built first full stack application using CRUD operations connected to a MySQL database.
 
-### Why we testing this?
+### Actions  {#overview-actions}
+- 🔹 **Step 1:** Created an app in Vscode using Node.JS and My SQL to create a database that stores the posts, categories and registered users.
+- 🔹 **Step 2:** Create a register and log in and test the autheication. Additional filter the articles and posts by categories.
+- 🔹 **Step 3:** Add a create, update, delete option for users create and remove posts.
+- 🔹 **Step 4:** Check API calls from web page works before pushing it live server for the app and backend.
 
-We are testing post as a template to see if it works. If works then it will be used a template for future projects
+---
+
+### Result
+
+Below is the result.
+
+https://full-stack-tech-blog-application-week8.onrender.com/
+
+https://github.com/DarrenSmith10/Full-Stack-Tech-Blog-Application-Week8
+
+
 
 ---
