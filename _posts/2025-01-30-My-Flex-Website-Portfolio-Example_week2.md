@@ -21,8 +21,8 @@ In this post, I'm testing to see how this will work.
 
 Below is the result.
 
-https://darrensmith10.github.io/DarrenMultiPagePortfolioWeek2/
+[Live Demo](https://darrensmith10.github.io/DarrenMultiPagePortfolioWeek2/)
 
-https://github.com/DarrenSmith10/DarrenMultiPagePortfolioWeek2
+[GitHub Repository](https://github.com/DarrenSmith10/DarrenMultiPagePortfolioWeek2)
 
 ---

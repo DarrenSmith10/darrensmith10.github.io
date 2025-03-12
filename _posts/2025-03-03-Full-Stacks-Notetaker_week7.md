@@ -23,9 +23,9 @@ In this post, I'm testing to see how this will work.
 
 Below is the result.
 
-https://full-stack-notes-application-week7.onrender.com/
+[Live demo](https://full-stack-notes-application-week7.onrender.com/)
 
-https://github.com/DarrenSmith10/Full-Stack-Notes-Application-Week7
+[GitHub Repository](https://github.com/DarrenSmith10/Full-Stack-Notes-Application-Week7)
 
 
 

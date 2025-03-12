@@ -35,7 +35,7 @@ We are testing post as a template to see if it works. If works then it will be u
 
 Below is the result.
 
-https://github.com/DarrenSmith10/My_GitHub_ReadME_Generator_Week6
+[GitHub Repository](https://github.com/DarrenSmith10/My_GitHub_ReadME_Generator_Week6)
 
 
 ---

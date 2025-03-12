@@ -22,9 +22,9 @@ Built first full stack application using CRUD operations connected to a MySQL da
 
 Below is the result.
 
-https://full-stack-tech-blog-application-week8.onrender.com/
+[Live demo](https://full-stack-tech-blog-application-week8.onrender.com/)
 
-https://github.com/DarrenSmith10/Full-Stack-Tech-Blog-Application-Week8
+[GitHub Repository](https://github.com/DarrenSmith10/Full-Stack-Tech-Blog-Application-Week8)
 
 
 

@@ -21,9 +21,9 @@ I built a dynamic portoflio. This was done using React. The site shows all the p
 
 Below is the result.
 
-https://darrensmith-my-react-app.onrender.com/
+[Live demo](https://darrensmith-my-react-app.onrender.com/)
 
-https://github.com/DarrenSmith10/DarrenSmith-my-react-app-week9
+[GitHub Repository](https://github.com/DarrenSmith10/DarrenSmith-my-react-app-week9)
 
 
 

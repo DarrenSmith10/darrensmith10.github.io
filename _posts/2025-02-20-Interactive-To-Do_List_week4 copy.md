@@ -21,9 +21,9 @@ In this post, I'm testing to see how this will work.
 
 Below is the result.
 
-https://darrensmith10.github.io/My-Interactive-ToDo-List-Week4/
+[Live Demo](https://darrensmith10.github.io/My-Interactive-ToDo-List-Week4/)
 
-https://github.com/DarrenSmith10/My-Interactive-ToDo-List-Week4
+[GitHub Repository](https://github.com/DarrenSmith10/My-Interactive-ToDo-List-Week4)
 
 
 
