@@ -9,7 +9,7 @@ plugins:
 
 #-------------------------------
 # General Site Settings
-title: Data Analyst and Software Developer
+title: Darren Smith
 description: "I have a long-standing passion for computing technology. Due to this passion, I have always been technical, and creative and studied a (Msc) Advanced Multimedia and 3D Technologies at Brunel University I am fascinated by Data, machine learning, and computer games and am currently seeking placement in the industry to utilise my skills and add to my experience"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://darrensmith10.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
@@ -17,7 +17,7 @@ author: "Darren Smith"
 
 #-------------------------------
 # About Section
-subtitle: Learner <span style="color:#f58506"> Portfolio </span>
+subtitle: Data Analyst and Software Developer <span style="color:#f58506"> Portfolio </span>
 location: "Surrey, UK"
 cv_url: "docs/Darren_Smith_CV_3rd_March_2025.pdf"
 avatar_image: img/DarrenNewProfile.jpg
