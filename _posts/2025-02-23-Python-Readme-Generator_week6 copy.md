@@ -33,3 +33,15 @@ Below is the result.
 
 
 ---
+
+- 📝 **Summary of Key Findings:**  
+  - Using Python dependancies such as Rich table and Pretty to make tables and text.
+
+  - How to use arrays & turples to manipulate data.
+
+  - Creating a file read/ write system that can take input and print it out.  
+
+### Future Considerations  {#overview-future}
+- 💡 Potential improvements:
+  1. Add more visual features to the readme.
+

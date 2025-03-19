@@ -26,3 +26,12 @@ Below is the result.
 [GitHub Repository](https://github.com/DarrenSmith10/DarrenSmithBootStrapPortfolio)
 
 ---
+
+- 📝 **Summary of Key Findings:**  
+  - Exploration of Boostrap and its styling and components.
+
+  - Manipulation of Boostrap griding system and friendly responsive tools.
+
+### Future Considerations  {#overview-future}
+- 💡 Potential improvements:
+  1. Further exploration into J-Query.

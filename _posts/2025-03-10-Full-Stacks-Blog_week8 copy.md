@@ -27,5 +27,19 @@ Below is the result.
 [GitHub Repository](https://github.com/DarrenSmith10/Full-Stack-Tech-Blog-Application-Week8)
 
 
-
 ---
+
+- 📝 **Summary of Key Findings:**  
+  - Discovering key finding of using CRUD Operations in the back end using Sequlize & SQL.
+
+  - How to connect to Front end using Node.JS / Express with a MySQL Database.
+
+  - Deploying a full stack application to Render and how to search for platform to host the database.  
+
+### Future Considerations  {#overview-future}
+- 💡 Potential improvements:
+  1. Add implemenation to arrange the post in order by time it was posted.
+
+  2. Add a feature that tells you the name of the user that posted the post, rather then using the default name user.
+
+  3. Make the application look visually more appealing.

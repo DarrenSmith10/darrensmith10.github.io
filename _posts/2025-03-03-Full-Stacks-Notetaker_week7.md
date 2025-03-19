@@ -30,3 +30,19 @@ Below is the result.
 
 
 ---
+
+- 📝 **Summary of Key Findings:**  
+  - Implemented CRUD operations (Create, Read, Update, Delete) for notes.
+
+  - Created a frontend UI that allowed users to add, view, edit, and delete notes.
+
+  - Set up an Express server that serves both API endpoints and static frontend files.
+
+  - Store notes persistently using a JSON files.
+
+
+### Future Considerations  {#overview-future}
+- 💡 Potential improvements:
+  1. Idea 1
+  2. Idea 2
+  3. Idea 3

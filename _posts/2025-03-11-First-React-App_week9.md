@@ -25,6 +25,18 @@ Below is the result.
 
 [GitHub Repository](https://github.com/DarrenSmith10/DarrenSmith-my-react-app-week9)
 
+- 📝 **Summary of Key Findings:**  
+  - Structure of React and using Props(Components) to design page layouts.
 
+  -   Using React to make pages more responsive and user friendly using application states.
+
+  - Reploying a react application to Render. 
+
+
+### Future Considerations  {#overview-future}
+- 💡 Potential improvements:
+  1. Add more components such as Gallery Carousal to make the page more interesting.
+
+  2. Explore more use of 3d party Api such as Axios.
 
 ---

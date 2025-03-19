@@ -26,3 +26,18 @@ Below is the result.
 [GitHub Repository](https://github.com/DarrenSmith10/DarrenMultiPagePortfolioWeek2)
 
 ---
+
+- 📝 **Summary of Key Findings:**  
+  - Introduction in adding structure to webpages using Flexi box and CSS styling.
+
+  - Multi page Naviation between pages.
+
+  - Responsive Web design basics.
+
+### Future Considerations  {#overview-future}
+- 💡 Potential improvements:
+  1. Explore more styling.
+
+  2. Test out more flexi box features and consider using grid where necessary as alternatives.
+
+  3. Explore different ways to build a website / hosting.

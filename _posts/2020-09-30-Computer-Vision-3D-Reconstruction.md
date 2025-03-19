@@ -57,3 +57,18 @@ Below is the result.
 [GitHub Repository](https://github.com/DarrenSmith10/PhotometricSteroProject)
 
 ---
+
+- 📝 **Summary of Key Findings:**  
+  - How Light Calibration works and different methods of calibrating.
+
+  - Different methods of 3D Reconstruction
+
+  - Algorithm to caculate the height map / depth. 
+
+### Future Considerations  {#overview-future}
+- 💡 Potential improvements:
+  1. Explore more C++ & Cv Library in order to get a more accurate result.
+
+  2. Consider using python as alternative to using Matlab.
+
+ 

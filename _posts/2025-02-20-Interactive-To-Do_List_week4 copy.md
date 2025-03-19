@@ -28,3 +28,17 @@ Below is the result.
 
 
 ---
+
+- 📝 **Summary of Key Findings:**  
+  - Created a input field and buttons that allow the user to add a task and store it.
+
+  - Importance of setting conditions based on what the user enters and create a result.
+
+  - Learning about DOM element creation using Child & Parents to add content to the page using Javascript instead of using HTML.  
+
+### Future Considerations  {#overview-future}
+- 💡 Potential improvements:
+  1. Cleaner script
+
+  2. Fix some bugs and issues in the saving and editting side of the program.
+
