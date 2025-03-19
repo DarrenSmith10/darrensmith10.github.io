@@ -21,6 +21,7 @@ Light Calibration methods such as mirror plane and Sphere ball was researched. M
 The second step was using these camera parameters with some measures to locate the light sources on the Laptop screen.
 
 - 📷 **Figure 1:** 
+
 ![Project Screenshot](/img/posts/image.png)  
 
 
@@ -31,6 +32,7 @@ This was done using manual measures by calculating the height and width of the s
 Once the size of the screen was measured, the points are then measured in relation to where the position of the light source is on the screen. This allowed the coordinates of each point to be calculated. Finally the location of each point and the normalised light direction is calculated using an equation that normalises the object distance in relation to the points. This gives the normalised directions of the light source.
 
 - 📷 **Figure 2:** 
+
 ![Project Screenshot](/img/posts/image-1.png)  
 
 
@@ -39,11 +41,13 @@ Once the size of the screen was measured, the points are then measured in relati
 The final step was to produce the software Algorithm that allows Photometric stereo to work on the laptop. This is done by taking in the data(images) and then masking it. With the image masked along with the other images, the calibrated light is then used to find the normal of the object on each image. The normals are then used to reconstruction the image giving the result shown below.
 
 - 📷 **Figure 3:** 
+
 ![Project Screenshot](/img/posts/image-2.png)  
 
 
 
 - 📷 **Figure 4:** 
+
 ![Project Screenshot](/img/posts/image-3.png)  
 
 
