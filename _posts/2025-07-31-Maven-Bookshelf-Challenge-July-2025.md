@@ -35,6 +35,9 @@ I made a dashboard using python to interact with. Interactive Maven July 2025 Da
 
 Below is the result.
 
+- 📌 **Python Dashboard:** 
+{% include youtubePlayer.html id=page.youtubeId %}
+
 [Live demo](https://mavenbookshelfchallengejuly2025-ycuxycuiz2dqvvtae2pcgn.streamlit.app/)
 
 [GitHub Repository](https://github.com/DarrenSmith10/Maven_Bookshelf_Challenge_July_2025)
