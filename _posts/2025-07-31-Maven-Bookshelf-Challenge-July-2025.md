@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Maven Bookshelf Challenge July 2025
-description: Collabrate in a group and design a website.
+description: Maven Bookshelf Challenge Tool for ideal summer reading lists.
 image: "/posts/Maven_Bookshelf_Challenge_dashboard.png"
 tags: [Python , Jupiter Notebook, Seaborn]
 youtubeId: r6w3o2mVUdc
