@@ -30,13 +30,15 @@ Below is the result.
 
   -   Using React to make pages more responsive and user friendly using application states.
 
-  - Reploying a react application to Render. 
+  - Reploying a react application to Next.js Vecal. 
 
 
 ### Future Considerations  {#overview-future}
 - 💡 Potential improvements:
   1. Add more components such as Gallery Carousal to make the page more interesting.
 
-  2. Explore more use of 3d party Api such as Axios.
+  2. Add more fashion items to the projects and fill in the about page when client is ready.
+
+  3. Contact page needs more work and project routing needs more work in the future.
 
 ---

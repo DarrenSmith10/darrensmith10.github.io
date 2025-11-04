@@ -1,0 +1,42 @@
+---
+layout: post
+title: Battery Dataset
+description: October Battery Dataset.
+image: "/posts/October-Battery-data.png"
+tags: [Python , Jupiter Notebook, Seaborn]
+---
+
+## Context
+
+I created data analysis of some real life sample data looking at the Car battery incidents. This was done using Python, Excel, Jupiter notebook and Power BI.
+
+### Actions  {#overview-actions}
+- 🔹 **Step 1:** Clean the database and remove duplicates, missing numbers and remove columns to reduce the file size.
+- 🔹 **Step 2:** Use Jupiter Notebook /Python to read in the files look through the data. 
+- 🔹 **Step 3:** Visualize the data using Power BI and create plots. 
+- 🔹 **Step 4:** Looked at the trends and then put the results on Power BI to create a dashboard.
+
+
+---
+
+### Result
+
+Below is the result.
+
+[GitHub Repository](https://github.com/DarrenSmith10/October_Battery_Data)
+
+- 📝 **Summary of Key Findings:**  
+  - Structure of React and using Props(Components) to design page layouts.
+
+  -   Using React to make pages more responsive and user friendly using application states.
+
+  - Reploying a react application to Render. 
+
+
+### Future Considerations  {#overview-future}
+- 💡 Potential improvements:
+  1. Add more components such as Gallery Carousal to make the page more interesting.
+
+  2. Explore more use of 3d party Api such as Axios.
+
+---
