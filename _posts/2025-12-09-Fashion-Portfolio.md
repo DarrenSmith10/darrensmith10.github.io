@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Portfolio
-description: Create a Portfolio using Next.js react.
-image: "/posts/Tina-Portfolio.png"
+description: Create a Fashion Portfolio using Next.js react.
+image: "/posts/Tina_Fashion_Portfolio.png"
 tags: [Next.JS , React]
 ---
 
