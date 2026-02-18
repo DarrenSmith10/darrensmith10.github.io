@@ -2,7 +2,7 @@
 layout: post
 title: Battery Dataset
 description: October Battery Dataset.
-image: "/posts/October-Battery-data.png"
+image: "/posts/PowerBI_Dashboard_No_of_Volunteers.png"
 tags: [Python , Jupiter Notebook, Seaborn]
 ---
 
@@ -23,12 +23,12 @@ I carried out a data analysis project using real-world sample data to examine th
 
 Below is the result.
 
-[GitHub Repository](https://github.com/DarrenSmith10/October_Battery_Data)
+[GitHub Repository](https://github.com/DarrenSmith10/Volunteer_Skills_Status_Sample_Data)
 
 - 📝 **Summary of Key Findings:**  
   - Using Python to clean spreadsheets and reduce file sizes.
 
-  -  Data Visualization.
+  - Data Visualization.
 
   - Creating Dashboards using PowerBI.
 
