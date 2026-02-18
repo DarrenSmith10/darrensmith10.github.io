@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Battery Dataset
-description: October Battery Dataset.
+title: Volunteer Skills Status Sample Data
+description: Volunteer Skills Status Sample Dataset.
 image: "/posts/PowerBI_Dashboard_No_of_Volunteers.png"
 tags: [Python , Jupiter Notebook, Seaborn]
 ---
