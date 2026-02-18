@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Volunteer Skills Status Sample Data
+title: Volunteer Skills Status Sample Dataset
 description: Volunteer Skills Status Sample Dataset.
 image: "/posts/PowerBI_Dashboard_No_of_Volunteers.png"
 tags: [Python , Jupiter Notebook, Seaborn]
