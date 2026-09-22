@@ -2,22 +2,22 @@
 layout: post
 title: Portfolio
 description: Create a Fashion Portfolio using Next.js react.
-image: "/posts/HandBag_1.jpg"
+image: "/posts/Textiles_Portfolio.png"
 tags: [Next.JS , React]
 ---
 
 ## Context
 
-I built a modern, responsive portfolio website using Next.js for a client working in textiles and fashion. The goal of the site is to establish a strong online presence that highlights her visibility, creativity, and professional credibility within the fashion industry.
+I built a modern, responsive portfolio website using Next.js for a client working in textile design and craft. The goal of the site is to establish a strong online presence that increases her visibility while highlighting her creativity and professional credibility within the industry.
 
-The website showcases a curated range of fashion products, including wool items, hats, and other textile-based pieces, presented through a clean, elegant, and user-focused design. Emphasis was placed on visual storytelling and accessibility across all devices.
+The website showcases a curated range of her work, including textile art and handbags, presented through a clean, elegant, and user-focused design. Emphasis was placed on visual storytelling and accessibility across all devices.
 
 This project was also a key learning experience, allowing me to deepen my understanding of React, Tailwind CSS, responsive design principles, and deployment workflows, while building a real-world, client-focused application.
 
 ### Actions  {#overview-actions}
-- 🔹 **Step 1:** Build a interactive website from scrath using Next.js. 
-- 🔹 **Step 2:** Structered and stylized Next.JS components using Next server, Tailwind CSS & Vercel. 
-- 🔹 **Step 3:** Deployed the application using Github repo before pushing it to Vercel.
+- 🔹 **Step 1:** Built an interactive website from scratch using Next.js.
+- 🔹 **Step 2:** Structured and styled Next.js components using server-side rendering, Tailwind CSS & Vercel.
+- 🔹 **Step 3:** Deployed the application by pushing the codebase to a GitHub repository and connecting it to Vercel for continuous deployment.
 
 ---
 
@@ -25,24 +25,26 @@ This project was also a key learning experience, allowing me to deepen my unders
 
 Below is the result.
 
-[Live demo](https://tina-fashion.vercel.app/)
+[Live demo](https://www.tinnikadesign.co.uk/)
 
 [GitHub Repository](https://github.com/DarrenSmith10/Tina_Fashion)
 
 - 📝 **Summary of Key Findings:**  
-  - Structure of Next.JS and using Props(Components) and Typescript to design page layouts.
+  - Learned the structure of Next.js, using props to build components and TypeScript to design page layouts.
 
-  -   Using Next.JS to make pages more responsive and user friendly using states.
+  - Used Next.js to make pages more responsive and user-friendly with React state.
 
-  - Reploying a react application to Next.js Vecal. 
+  - Deployed the React/Next.js application to Vercel.
+
+  - Bought a domain name and linked it to the Vercel deployment so the site could be accessed on the web.
 
 
 ### Future Considerations  {#overview-future}
 - 💡 Potential improvements:
-  1. Add more components such as Gallery Carousal to make the page more interesting.
+  1. Potentially add a database for user login.
 
-  2. Add more fashion items to the projects and fill in the about page when client is ready.
+  2. Add a shopping catalogue with items and payment options if the client requests it.
 
-  3. Contact page needs more work and project routing needs more work in the future.
+  
 
 ---
